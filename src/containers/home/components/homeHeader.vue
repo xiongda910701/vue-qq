@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="image-box" @click="changeSideBarState"><img :src="imgUrl" alt="" class="user-head"></div>
-    <div class="mid">消息</div>
+    <div class="mid">消息dsadsadsad</div>
     <div class="right" @click="changeState"><span class="iconfont icon-jiahao"></span></div>
   </div>
 </template>
