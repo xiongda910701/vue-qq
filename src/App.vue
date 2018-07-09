@@ -31,3 +31,4 @@ export default {
     }
   }
 </style>
+//ssh-keygen -t rsa -C "2415835008@qq.com"
