@@ -1,6 +1,6 @@
 # myqq
 
-> A Vue.js project
+> 一个用vee2+vue-router+vuex写的模仿企鹅App写的一个项目，后期会不断更新完善
 
 ## Build Setup
 
